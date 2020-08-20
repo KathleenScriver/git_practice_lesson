@@ -52,3 +52,4 @@ Committed
 ### Important Git Commands
 * git init - initialize a local git repository
 * git symbolic-ref HEAD refs/heads/main (to switch the default of master to main)
+* git commit -m "message describing functionality"
